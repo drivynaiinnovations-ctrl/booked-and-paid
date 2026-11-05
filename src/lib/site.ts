@@ -7,7 +7,7 @@ export const BRAND = {
   name: "Booked & Paid",
   tagline: "Get paid before you bake.",
   // Fill these in before launch. Empty values are hidden (the apply form falls back to on-page confirmation).
-  email: "",
+  email: "drivyn.ai.innovations@gmail.com",
   phone: "",
   founder: { name: "", role: "Founder", photo: "", bio: "" },
 };
